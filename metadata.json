@@ -1,0 +1,6 @@
+{
+  "name": "AI Recruitment Platform",
+  "description": "An intelligent full-suite recruitment dashboard featuring AI resume screening, job description optimization, behavioral mock interview simulators, and talent analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
